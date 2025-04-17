@@ -1,3 +1,9 @@
+summary: Learn how to build a RAG pipeline using Mistral OCR, chunking, embeddings, Pinecone, ChromaDB, and a Streamlit UI.
+id: co2-data-pipeline
+categories: Data Engineering, Cloud, AWS, RAG
+status: Published
+authors: Hishita Thakkar
+feedback link: https://your-feedback-link.com
 # H-1B Visa Approval Prediction Machine Learning Project
 
 ## Introduction
