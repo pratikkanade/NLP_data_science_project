@@ -1,0 +1,10 @@
+{
+  "title": "H-1B Visa Approval Prediction Machine Learning Project",
+  "description": "A comprehensive machine learning pipeline to predict H-1B visa approval status.",
+  "authors": ["Google Developer Expert"],
+  "categories": ["Machine Learning", "Data Science"],
+  "url": "https://github.com/yourusername/h1b-visa-approval-prediction",
+  "source": "codelab.md",
+  "type": "tutorial",
+  "status": "published"
+}
