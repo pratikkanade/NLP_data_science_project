@@ -1,10 +1,26 @@
 {
-  "title": "H-1B Visa Approval Prediction Machine Learning Project",
-  "description": "A comprehensive machine learning pipeline to predict H-1B visa approval status.",
-  "authors": ["Google Developer Expert"],
-  "categories": ["Machine Learning", "Data Science"],
-  "url": "https://github.com/yourusername/h1b-visa-approval-prediction",
-  "source": "codelab.md",
-  "type": "tutorial",
-  "status": "published"
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2025-04-17T17:08:03-04:00",
+  "id": "co2-data-pipeline",
+  "duration": 0,
+  "title": "CO₂ Data Pipeline - Fetch, Store, Process in Snowflake",
+  "authors": "Hishita Thakkar",
+  "summary": "Learn how to build a RAG pipeline using Mistral OCR, chunking, embeddings, Pinecone, ChromaDB, and a Streamlit UI.",
+  "source": "co2_data_pipeline.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "dataengineering",
+    "cloud",
+    "aws",
+    "rag"
+  ],
+  "tags": [],
+  "feedback": "https://your-feedback-link.com",
+  "url": "co2-data-pipeline"
 }
